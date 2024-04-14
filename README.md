@@ -83,19 +83,18 @@ Use MySQL to store information in a structured format.
 ### 4.1 Website Frontend
 The frontend features a user-friendly interface with various pages as shown below.
 
-![Home Page](images/home-page.png)
-*Fig 4.1.1: Home Page*
+![page1](images/front1.png)
+![Home Page](images/front2.png)
+![Home Page](images/front3.png)
+![Home Page](images/front4.png)
 
-![User Registration](images/user-registration.png)
-*Fig 4.1.2: User Registration*
-
-<!-- Add more frontend images -->
 
 ### 4.2 Website Backend
 The backend includes features for managing bookings, vehicles, and feedback.
 
-![Bookings](images/bookings.png)
-*Fig 4.2.2: Bookings*
+![Bookings](images/back1.png)
+![Bookings](images/back2.png)
+![Bookings](images/back3.png)
 
 <!-- Add more backend images -->
 
